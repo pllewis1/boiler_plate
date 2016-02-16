@@ -4,7 +4,7 @@
 ## Installation
 
 - `cd ~/dev`
-- `git clone git@github.com:theironyard-frontend-nashville/frontend-boilerplate.git <projectname>` replacing <projectname> with your own project name.
+- `git clone git@github.com:pllewis1/boiler_plate.git <projectname>` replacing <projectname> with your own project name.
 - `cd <projectname>`
 - `rm -rf .git`
 - `git init`
